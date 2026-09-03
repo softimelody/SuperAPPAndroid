@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Prueba3</string>
+    <string name="am_titulo">Iniciar Sesion</string>
+    <string name="am_txtCorreo">Correo</string>
+    <string name="am_txtContraseña">Contraseña</string>
+    <string name="am_btnIngresar">Ingresar</string>
+    <string name="am_txtNoRegistrado">No tienes cuenta?</string>
+    <string name="am_btnCrear">Crea tu cuenta.</string>
+    <string name="ar_titulo">Crea tu cuenta</string>
+    <string name="ar_txtCorreo">Correo</string>
+    <string name="ar_cbTerminos">acepto las politicas de la aplicacion </string>
+    <string name="ar_txtContraseña">Contraseña</string>
+    <string name="ar_btnReistrate">Registrase</string>
+    <string name="aw_titulo">Bienvenido a esta aplicacion de prueba!</string>
+</resources>
