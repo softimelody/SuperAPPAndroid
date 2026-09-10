@@ -1,15 +1,55 @@
 <resources>
-    <string name="app_name">Prueba3</string>
-    <string name="am_titulo">Iniciar Sesion</string>
-    <string name="am_txtCorreo">Correo</string>
+    <string name="app_name">TaskMaster</string>
+
+    <string name="am_titulo">Iniciar Sesión</string>
+    <string name="am_txtCorreo">Correo Electrónico</string>
     <string name="am_txtContraseña">Contraseña</string>
-    <string name="am_btnIngresar">Ingresar</string>
-    <string name="am_txtNoRegistrado">No tienes cuenta?</string>
-    <string name="am_btnCrear">Crea tu cuenta.</string>
+    <string name="am_btnIngresar">Ingresar a TaskMaster</string>
+    <string name="am_txtNoRegistrado">¿No tienes cuenta?</string>
+    <string name="am_btnCrear">Crea tu cuenta aquí.</string>
+
     <string name="ar_titulo">Crea tu cuenta</string>
-    <string name="ar_txtCorreo">Correo</string>
-    <string name="ar_cbTerminos">acepto las politicas de la aplicacion </string>
+    <string name="ar_txtCorreo">Correo Electrónico</string>
+    <string name="ar_cbTerminos">Acepto las políticas y términos de la aplicación TaskMaster</string>
     <string name="ar_txtContraseña">Contraseña</string>
-    <string name="ar_btnReistrate">Registrase</string>
-    <string name="aw_titulo">Bienvenido a esta aplicacion de prueba!</string>
+    <string name="ar_btnReistrate">Registrarse</string>
+    <string name="ar_lbl_preferencia">Preferencia de Inicio:</string>
+    <string name="ar_pref_normal">Modo Normal</string>
+    <string name="ar_pref_prioritario">Modo Prioritario</string>
+
+    <string name="aw_titulo">¡Bienvenido a TaskMaster!</string>
+    <string name="aw_subtitulo">Organiza tus tareas diarias de manera eficiente con una experiencia Soft Pastel &amp; Tornasol.</string>
+    <string name="aw_btn_comenzar">Iniciar Sesión</string>
+    <string name="aw_btn_ir_tareas">Ir Directo a TaskMaster</string>
+    <string name="aw_tbl_header_feature">Característica</string>
+    <string name="aw_tbl_header_status">Estado</string>
+    <string name="aw_tbl_feat1">Categorización Inteligente</string>
+    <string name="aw_tbl_feat2">Nivel de Urgencia (Rating)</string>
+    <string name="aw_tbl_feat3">Medidor de Progreso (ProgressBar)</string>
+    <string name="aw_tbl_act">Disponible</string>
+
+    <string name="tm_titulo">TaskMaster</string>
+    <string name="tm_subtitulo">Panel de Control de Tareas</string>
+    <string name="tm_progreso_label">Progreso del Día:</string>
+    <string name="tm_lbl_nueva_tarea">Crear Nueva Tarea</string>
+    <string name="tm_hint_titulo">Ej. Preparar informe de proyecto&#8230;</string>
+    <string name="tm_lbl_categoria">Categoría:</string>
+    <string name="tm_cat_trabajo">Trabajo</string>
+    <string name="tm_cat_personal">Personal</string>
+    <string name="tm_cat_estudios">Estudios</string>
+    <string name="tm_lbl_urgencia">Urgencia / Prioridad:</string>
+    <string name="tm_cb_importante">Destacar tarea como urgente</string>
+    <string name="tm_btn_agregar">Guardar Tarea</string>
+    <string name="tm_lbl_filtrar">Filtrar por categoría:</string>
+    <string name="tm_stats_total">Total: %d</string>
+    <string name="tm_stats_pendientes">Pendientes: %d</string>
+    <string name="tm_stats_completadas">Completadas: %d</string>
+    <string name="tm_btn_eliminar">Eliminar</string>
+    <string name="tm_empty_list">No hay tareas creadas. Agrega una nueva arriba!</string>
+    <string name="tm_badge_urgente">Urgente</string>
+    <string name="tm_0_percent">0%</string>
+    <string name="tm_percent_format">%d%%</string>
+    <string name="tm_stat_total_zero">Total: 0</string>
+    <string name="tm_stat_pendientes_zero">Pendientes: 0</string>
+    <string name="tm_stat_completadas_zero">Completadas: 0</string>
 </resources>

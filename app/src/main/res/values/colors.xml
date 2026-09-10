@@ -2,4 +2,26 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta Soft Pastel -->
+    <color name="pastel_lavender">#E8DFF5</color>
+    <color name="pastel_pink">#FCE1E4</color>
+    <color name="pastel_mint">#DDEDEA</color>
+    <color name="pastel_yellow">#FCF4DD</color>
+    <color name="pastel_blue">#E8F0FE</color>
+    <color name="pastel_purple">#D0D1FF</color>
+    <color name="pastel_rose">#F3C4FB</color>
+    <color name="pastel_cyan">#C0FDFB</color>
+
+    <!-- Efecto Tornasol / Iridiscente Pastel -->
+    <color name="tornasol_start">#FFD1DC</color>
+    <color name="tornasol_center">#E2D4F8</color>
+    <color name="tornasol_end">#C1E3FE</color>
+
+    <!-- Textos y Bordes -->
+    <color name="text_primary">#2D2B3A</color>
+    <color name="text_secondary">#6E6A85</color>
+    <color name="card_bg">#FAFAFF</color>
+    <color name="card_stroke">#D8C4F0</color>
+    <color name="accent_purple">#8A5CF5</color>
 </resources>
