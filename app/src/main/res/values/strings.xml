@@ -27,6 +27,9 @@
     <string name="aw_tbl_feat2">Nivel de Urgencia (Rating)</string>
     <string name="aw_tbl_feat3">Medidor de Progreso (ProgressBar)</string>
     <string name="aw_tbl_act">Disponible</string>
+    <string name="aw_btnHabla">HACE HABLAR A MIKU</string>
+
+
 
     <string name="tm_titulo">TaskMaster</string>
     <string name="tm_subtitulo">Panel de Control de Tareas</string>
